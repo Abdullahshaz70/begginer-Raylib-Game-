@@ -1,3 +1,6 @@
+// A Computer Science Quote
+// KISS
+// (Keep It Simple Stupid)
 #include<raylib.h>
 #include<iostream>
 const int screenHeight = 800;
