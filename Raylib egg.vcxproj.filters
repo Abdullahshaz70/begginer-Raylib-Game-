@@ -14,4 +14,23 @@
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
   </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Source.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="x64\Debug\b1.png">
+      <Filter>Source Files</Filter>
+    </Image>
+    <Image Include="x64\Debug\b2.png">
+      <Filter>Source Files</Filter>
+    </Image>
+    <Image Include="x64\Debug\apple.png">
+      <Filter>Source Files</Filter>
+    </Image>
+    <Image Include="x64\Debug\basket.png">
+      <Filter>Source Files</Filter>
+    </Image>
+  </ItemGroup>
 </Project>
